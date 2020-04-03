@@ -1,6 +1,7 @@
 div {
   text-align: center;
   padding: 7px 7px;
+  box-sizing: 10px;
 }
 body {
   background-color: orange;
